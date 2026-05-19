@@ -46,7 +46,7 @@ pip install fastapi uvicorn pandas python-multipart
 
 ---
 
-## Como Executar
+## Como Executar:
 
 ```bash
 uvicorn main:app --reload
