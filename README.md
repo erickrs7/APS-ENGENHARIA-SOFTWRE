@@ -125,4 +125,4 @@ Recebe um arquivo CSV via `multipart/form-data` e retorna os indicadores calcula
 
 ## Contexto Acadêmico
 
-Projeto desenvolvido como Atividade Prática Supervisionada (APS) para a disciplina de Sustentabilidade e Análise Emergética — curso de Ciência da Computação, UNIP.
+Projeto desenvolvido como Atividade Prática Supervisionada (APS) para a disciplina de Engenharia de Software — curso de Ciência da Computação, UNIP.
